@@ -1,0 +1,156 @@
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x4aeabfb041f4e9911219cf85be759ba6f3cb0743c856f3ece56f03a3115e6636
+   > Blocks: 2            Seconds: 5
+   > contract address:    0x747F0A5c8769E86F169146e638D472892d510144
+   > block number:        17818249
+   > block timestamp:     1629337890
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.9346930534
+   > gas used:            155006 (0x25d7e)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0003255126 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 17818253)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:        0.0003255126 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Replacing 'TokenFactory'
+   ------------------------
+   > transaction hash:    0xbdd18ca1b82df16f6a061f7f0bf9a56c900c25b90ccab084b2635dc28fba2586
+   > Blocks: 3            Seconds: 5
+   > contract address:    0x823F7148e766D322b982435C93d3c62e78CA4084
+   > block number:        17818262
+   > block timestamp:     1629337916
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.9301372042
+   > gas used:            2123797 (0x206815)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0044599737 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 17818266)
+
+   Replacing 'MockToken'
+   ---------------------
+   > transaction hash:    0xeccb39513e70b18802b24572bbf12977b266a30f45833e9e2b1cfebe4332189c
+   > Blocks: 2            Seconds: 5
+   > contract address:    0xb594DE5537A28F317f159af080953a3fEef69781
+   > block number:        17818270
+   > block timestamp:     1629337932
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.9284471662
+   > gas used:            804780 (0xc47ac)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.001690038 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 3 (block: 17818275)
+
+   Replacing 'PriceFeeder'
+   -----------------------
+   > transaction hash:    0xc7dcf2c8d24ac60a70b8d2c49cb2625a3672b40cb53b8279a46a913b925b3b08
+   > Blocks: 2            Seconds: 5
+   > contract address:    0xe4693B25351624AE9a8D1ad113032774Dac09785
+   > block number:        17818278
+   > block timestamp:     1629337948
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.9271004299
+   > gas used:            641303 (0x9c917)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0013467363 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 17818282)
+
+   Replacing 'Perpetual'
+   ---------------------
+   > transaction hash:    0x85a60e6c2c0d7b1e7cca4988f389e1af5084e66a1163f746fb36626a5ec558f3
+   > Blocks: 2            Seconds: 5
+   > contract address:    0x151fEF90Be8ffacBED3A59982a0D08A4b87F2409
+   > block number:        17818286
+   > block timestamp:     1629337964
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.919570819
+   > gas used:            3585529 (0x36b5f9)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0075296109 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 17818291)
+
+   Replacing 'AMM'
+   ---------------
+   > transaction hash:    0x29488e61b3301462bf100a267305071d77cdc1128787cedd4dad0119a514f7c1
+   > Blocks: 2            Seconds: 5
+   > contract address:    0xF355914676752C250B431bA68EB125a86364B7d4
+   > block number:        17818296
+   > block timestamp:     1629337984
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.9085325995
+   > gas used:            5256295 (0x503467)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0110382195 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 17818300)
+
+   Replacing 'FundingCalculator'
+   -----------------------------
+   > transaction hash:    0x5f765d15c3237fd9d6ea037dece542c28cd6a5833cdbd0969ed9b14070ba9735
+   > Blocks: 2            Seconds: 9
+   > contract address:    0xd3e280c5AfbAF35bDD05b121b3D6Ceae7598dFBA
+   > block number:        17818304
+   > block timestamp:     1629338004
+   > account:             0xA83473A96b2881255eb36f3ac0A9249A6d9c2627
+   > balance:             1.9043536793
+   > gas used:            1989962 (0x1e5d4a)
+   > gas price:           2.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0041789202 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 17818308)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:        0.0302434986 ETH
+
+
+3_setup_initial_values.js
+=========================
+
+   > Saving migration to chain.
+   -------------------------------------
+   > Total cost:                   0 ETH
+
+
+Summary
+=======
+> Total deployments:   7
+> Final cost:          0.0305690112 ETH
