@@ -9,12 +9,13 @@
 
 
 ## **TEBS Dapp**
-## Tebs is decentralize application for trading stock markets which is only available on the Harmony Testnet network to help other users feels different experience in the Blockchain Ecosystem
+## Tebs is decentralize application for trading stock markets which is only available on the Harmony Testnet network to help other users feels unique experience in the Blockchain Ecosystem
+
 
 ## Video Guide how to use TEBS APP : 
 
 
-## Live app demo: https://tebs-app.herokuapp.com/
+## Live app demo: https://tebs.herokuapp.com/
 
 
 ### **TokenFactory Address:** https://explorer.harmony.one/address/0x5dcF3F597117aF52cfF06F9379E4AC4C865d047C
