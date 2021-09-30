@@ -1,6 +1,7 @@
 
+# Harmony - Bridging TradFi To DeFi
 
-## TASK 
+### TASK 
 
 1. Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313
 2. Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301
