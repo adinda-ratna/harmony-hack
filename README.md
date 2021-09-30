@@ -5,7 +5,8 @@
 ### Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301
 
 ## **Create Mock Terra UST Token and use them as a colateral**
-see: 
+
+## see: 
 
 ### [1. Deploy Terra UST](https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/contracts/migrations/2_deploy_contracts.js#L25)
 
