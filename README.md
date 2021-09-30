@@ -7,11 +7,15 @@
 ## **Create Mock Terra UST Token and use them as a colateral**
 see: 
 
-1. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/contracts/migrations/2_deploy_contracts.js#L25
-2. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/hooks/useContracts.js#L17
-3. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/hooks/useERC20.js#L11
-4. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/components/Trade/LiquidityPanel.js#L53 
-5. and more.
+### 1. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/contracts/migrations/2_deploy_contracts.js#L25
+
+### 2. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/hooks/useContracts.js#L17
+
+### 3. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/hooks/useERC20.js#L11
+
+### 4. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/components/Trade/LiquidityPanel.js#L53 
+
+### 5. and more.
 
 
 ## **TEBS Dapp**
