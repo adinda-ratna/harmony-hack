@@ -2,9 +2,9 @@
 # Harmony - Bridging TradFi To DeFi
 
 ## TASK 
-### Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301
+### Challenge: Terra : https://gitcoin.co/issue/harmony-one/hackathon/30/100026314
 
-## **Create Mock Terra UST Token and use them as a colateral**
+## **Create Mock Terra UST Token and use them as a collateral**
 
 ## see: 
 
