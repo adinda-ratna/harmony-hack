@@ -1,11 +1,17 @@
 
 # Harmony - Bridging TradFi To DeFi
 
-### TASK 
+## TASK 
+### Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301
 
-1. Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313
-2. Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301
-3. Challenge: Terra : https://gitcoin.co/issue/harmony-one/hackathon/30/100026314
+## **Create Mock Terra UST Token and use them as a colateral**
+see: 
+
+1. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/contracts/migrations/2_deploy_contracts.js#L25
+2. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/hooks/useContracts.js#L17
+3. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/hooks/useERC20.js#L11
+4. https://github.com/FortEVE-Team/harmony-hack/blob/9df9282ea76b33c9194cc40cbfafb97d1e0ad6d8/frontend/src/components/Trade/LiquidityPanel.js#L53 
+5. and more.
 
 
 ## **TEBS Dapp**
