@@ -9,7 +9,7 @@
 ## Tebs is decentralize application for trading stock markets which is only available on the Harmony Testnet network to help other users feels unique experience in the Blockchain Ecosystem
 
 
-## Video Guide how to use TEBS APP : 
+## Video Guide how to use TEBS APP : https://www.youtube.com/watch?v=6lOK3kp8Ee4
 
 
 ## Live app demo: https://tebs.herokuapp.com/
