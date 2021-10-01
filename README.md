@@ -18,7 +18,7 @@
 ### **TokenFactory Address:** https://explorer.harmony.one/address/0x5dcF3F597117aF52cfF06F9379E4AC4C865d047C
 
 
-### **Colateral Token Address (MUSD):** https://explorer.harmony.one/address/0x98a7c88b2139bbb72311496ad564162899eb2e32
+### **Colateral Token Address (HUSD):** https://explorer.harmony.one/address/0x98a7c88b2139bbb72311496ad564162899eb2e32
 
 
 ### **PriceFeeder Address:** https://explorer.harmony.one/address/0x312742eE8812fEd59108D7ABeC387cB214ad62BA
